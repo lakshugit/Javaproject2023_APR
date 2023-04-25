@@ -10,8 +10,8 @@ public class program2
 		addFunction(80,10);
 		
 	}
-	 public static void addFunction(int a, int b)
-	 {
+	 public static void addFunction(int a, int b) {
+	 
 		 System.out.println(a+b);
 		
 	}
